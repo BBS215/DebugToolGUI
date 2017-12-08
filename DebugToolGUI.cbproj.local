@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.976,C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.642,D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\Project1PCH1.h=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\DebugToolGUIPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.123,C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.834,=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\pnp.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\debugtool.c</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.814,=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\hid.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.803,=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\debugtool.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.657,C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\DebugToolGUI.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.861,=C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\YandexDisk\workspace\STM8-keyboard\DebugToolGUI\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,=C:\Users\BBS\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
